@@ -18,3 +18,9 @@ node_modules/
 .env
 output/
 tmp/
+
+# 凭据（切勿提交真实密钥）
+cos_credential.json
+*_credential.json
+credentials*.json
+.secrets/
